@@ -1,6 +1,9 @@
 ## Climate Dynamics Lab 🌀
 The [Climate Dynamics Lab](https://mutz.science/) is a small, international network of scientists clustered around specific research topics (see [list of publications](https://mutz.science/res/pub.html)). We keep an open-door policy to anyone interested in working on these topics (as a researcher, developer or communicator). [Get in touch](mailto:sebastian@mutz.science) if you have questions, comments, or would like to join us!
 
+![logo](banner.jpg)
+
+
 ## Languages and Tools 🛠
 <p align="left"> 
 <a href="https://fortran-lang.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fortran/fortran-original.svg" alt="c" width="32" height="32"/> </a>
